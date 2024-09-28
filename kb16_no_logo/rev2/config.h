@@ -48,7 +48,7 @@
 #endif
 
 /* OLED Settings */
-#define OLED_TIMEOUT 60000 // number of milliseconds to wait until OLED automatically turns off
+//#define OLED_TIMEOUT 60000 // number of milliseconds to wait until OLED automatically turns off
 
 /* Encoder pins */
 #define ENCODERS_PAD_A { B5, A1, A3 }
